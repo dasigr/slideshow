@@ -1,0 +1,17 @@
+.container {
+  display: table;
+  width: 100%;
+  clear: both;
+  box-sizing: border-box;
+  max-width: 1840px;
+  margin: 0 auto;
+}
+
+.block {
+  float: left;
+}
+
+img {
+  float: left;
+  display: block;
+}
